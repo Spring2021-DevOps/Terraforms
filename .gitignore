@@ -2,6 +2,7 @@
 **/.terraform/*
 
 secrets/
+.DS_Store
 
 # .tfstate files
 *.tfstate
